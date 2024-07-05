@@ -62,6 +62,14 @@ Very simple to install:
    - View the table with columns for "Name", "Rating", "Popularity", and "Genre".
    - Once a movie is added to the watchlist, view additional details such as the movie poster and a delete option.
 
+## Preview of the Project
+
+![Preview-1](Previews/Preview-1.png)
+![Preview-2](Previews/Preview-2.png)
+![Preview-3](Previews/Preview-3.png)
+![Preview-4](Previews/Preview-4.png)
+![Preview-5](Previews/Preview-5.png)
+
 ## Contributing
 
 Feel free to contribute to this project. Any improvements or suggestions are welcome!
